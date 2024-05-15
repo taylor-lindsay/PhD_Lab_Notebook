@@ -1,6 +1,6 @@
 
 # PhD Lab Notebook
-## Taylor Lindsay 
+Taylor Lindsay 
 ### University of Rhode Island 
 
 
