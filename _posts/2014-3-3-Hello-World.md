@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: TLAP CSIA Summary
+date: '2024-05-13'
+categories: Lab Work
+tags: [CSIA, Astrangia, TLAP]
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Summary of Astrangia poculata project CSIA samples & process 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
