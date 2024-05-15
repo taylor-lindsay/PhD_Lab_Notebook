@@ -14,3 +14,8 @@ Wed May 15
 - Initalized GC run of round 6 second attempt 
 - Muffled glassware in McMahon Lab 
 
+Thurs May 16
+
+Fri May 17
+
+
