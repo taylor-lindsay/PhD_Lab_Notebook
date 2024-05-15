@@ -4,4 +4,4 @@ Taylor Lindsay
 ### University of Rhode Island 
 
 
-* This lab notebook uses the Jekyll Now template
+* This lab notebook uses the Jekyll Now template *
