@@ -23,4 +23,17 @@ Thurs May 16
 
 Fri May 17
 
+Weekend May 18-19
+
+Mon
+
+Tues
+
+Thurs
+
+Fri
+
+Weekend
+
+
 
