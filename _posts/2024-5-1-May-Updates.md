@@ -16,6 +16,11 @@ Wed May 15
 
 Thurs May 16
 
+- Finished TLAP CSIA GC round 6
+- Started TLAP CSIA GC round 9
+- Final draft of ICRS report
+- Worked on CF stuff for Sofia 
+
 Fri May 17
 
 
