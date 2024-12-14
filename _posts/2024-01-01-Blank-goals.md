@@ -1,7 +1,7 @@
 ---
 layout: post
 title: _____ 2024 Goals
-date: '2024-__-01'
+date: '2024-01-01'
 categories: Monthly_Goals
 tags: Goals
 ---
