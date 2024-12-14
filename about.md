@@ -6,8 +6,8 @@ permalink: /about/
 
 ### Website 
 
-### CV
+taylor-lindsay.weebly.com 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[taylor_lindsay@uri.edu](mailto:email@domain.com)
